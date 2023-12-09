@@ -11,6 +11,7 @@ Parts list:
  - Audio Jack
  - uLCD Display
  - Bluetooth Module
+ - Barrell Jack (5V external Power Supply)
 
 Schematic:
 
