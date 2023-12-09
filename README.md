@@ -4,7 +4,13 @@ Mbed Media Player
 Nirmal Karthik & Clayton Walker (both section B)
 
 Parts list:
-
+ - Mbed
+ - SD Card
+ - Class D Audio Amp
+ - Speaker
+ - Audio Jack
+ - uLCD Display
+ - Bluetooth Module
 
 Schematic:
 
