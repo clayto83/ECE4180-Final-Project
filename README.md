@@ -1,24 +1,16 @@
 # ECE4180-Final-Project
-Mbed Media Player
+Bluetooth Media Player
 
-Nirmal Karthik & Clayton Walker (both section B)
+Welcome to the ECE4180-Final-Project wiki!
 
-Parts list:
- - Mbed
- - SD Card
- - Class D Audio Amp
- - Speaker
- - Audio Jack
- - uLCD Display
- - Bluetooth Module
- - Barrel Jack (5V external Power Supply)
+Nirmal Karthik and Clayton Walker (Section B)
 
-Schematic:
+Our Project: The purpose of our project is to create a Bluetooth media player with the following functionality:
+ - Plays Wav Files from an SD card
+ - Includes a Display to show the name of the file playing
+ - Outputs the audio via a speaker and an audio jack
+ - The user can use Bluetooth to select initial song, pause/play, or adjust the volume via the Bluefruit GUI
 
+It accomplishes this using the Mbed with RTOS threads for the Bluetooth, the LCD, and the audio output. We also needed to make some modifications to the wave_player library to enable the pause/play, and volume adjustment features. For more details on this project, please visit our wiki page:
 
-Breadboard (with speaker and audio jack):
- 
-
-Demo Video:
-https://youtu.be/8MhhAuW9DZ0![image](https://github.com/clayto83/ECE4180-Final-Project/assets/153334468/5ccc0a55-2977-4d34-b8bc-b688d3c0b71f)
-
+https://github.com/clayto83/ECE4180-Final-Project/wiki
