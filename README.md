@@ -1,7 +1,7 @@
 # ECE4180-Final-Project
 Bluetooth Media Player
 
-Welcome to the ECE4180-Final-Project wiki!
+Welcome to the ECE4180-Final-Project repo!
 
 Nirmal Karthik and Clayton Walker (Section B)
 
